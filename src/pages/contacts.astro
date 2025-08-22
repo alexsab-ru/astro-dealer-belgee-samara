@@ -19,15 +19,18 @@ const workers = salons.flatMap(salon =>
         salonName: salon.name
     })) || []
 );
+const description = `Контакты автосалона ${site_name} - ${salons
+    .filter(salon => salon?.address && salon?.address !== '')
+    .map(s => `${s?.address}`).join(', ')}`;
 ---
 
-<Layout title={`Контакты автосалона ${site_name}`}>
+<Layout title={`Контакты автосалона ${site_name}`} description={`${description}`}>
 	<div class="h-full relative">
 		<div class="container">
 			<div class="flex flex-col md:flex-row pb-[400px] md:pb-0">
 
 				<div class="md:w-2/5 py-10">
-					<PageH1 h1="Контакты" classes="text-3xl sm:text-4xl font-bold" />
+					<PageH1 h1="Контакты" classes="text-3xl sm:text-4xl font-medium" />
 					{legal_entity ? (
 						<div class="flex flex-wrap gap-y-5 sm:gap-y-8 mt-10">
 							{legal_entity && (<InfoItem class="w-full flex items-center gap-2.5" label="Юридическое лицо" value={legal_entity} iconName="mdi:bank" />)}
@@ -79,7 +82,7 @@ const workers = salons.flatMap(salon =>
 </Layout>
 
 <!--
-	modalShow - Количество милесекунд до показа окна (по умолчанию 20000)
+	modalShow - Количество миллисекунд до показа окна (по умолчанию 20000)
 	title - Заголовок
 	modalPosition - позиция окна left-top|right-top|right-bottom|left-bottom|center (по умолчанию center)
 	img - фото человека (по умолчанию пусто)
