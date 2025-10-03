@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "brand": "BELGEE",
+    "model": "S50",
+    "price": 1688990,
+    "benefit": 401000
+  },
+  {
+    "brand": "BELGEE",
+    "model": "X50",
+    "price": 1797990,
+    "benefit": 891590
+  }
+]
