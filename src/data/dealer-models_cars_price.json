@@ -7,6 +7,12 @@
   },
   {
     "brand": "BELGEE",
+    "model": "X50",
+    "price": 2039190,
+    "benefit": 551000
+  },
+  {
+    "brand": "BELGEE",
     "model": "X70",
     "price": 2352500,
     "benefit": 926190
