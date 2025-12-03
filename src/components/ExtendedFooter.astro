@@ -80,11 +80,16 @@ salons
                 ) : <Brands type="logo" />
             }
 
-            <div class="">
+            <div class="flex flex-col justify-between gap-6">
                 {Object.keys(socials.footer).length ? (
-                    <div class="text-xl mb-3 md:mb-5">Будь в курсе выгодных предложений</div>
-                    <SocialList data={socials.footer} />
+                    <div>
+                        <div class="text-xl mb-3 md:mb-5">Будь в курсе выгодных предложений</div>
+                        <SocialList data={socials.footer} />
+                    </div>
                 ) : ('')}
+                <div>
+                    <iframe src="https://yandex.ru/sprav/widget/rating-badge/183569750351?type=rating" width="150" height="50" frameborder="0"></iframe>
+                </div>
             </div>
 
         </div>
