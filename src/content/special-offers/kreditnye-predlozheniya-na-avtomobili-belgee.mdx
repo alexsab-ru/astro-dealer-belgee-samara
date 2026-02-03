@@ -13,6 +13,7 @@ import settings from '@/data/settings.json';
 export const { site_name, phone_common } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
 
 export const dateFrom = '01.07.2024';
 export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
@@ -36,17 +37,30 @@ export const advantages = [
 
 <AdvantagesList items={advantages} classes="grid sm:grid-cols-3 gap-5 lg:gap-10 text-center mb-10 md:mb-20" />
 
-### **Требования, предъявляемые к заемщикам:**
 
-☑ гражданство РФ
 
-☑ возраст на дату выдачи кредита и на момент его погашения
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8 items-start">
+	<div>
+		### **Требования, предъявляемые к заемщикам:**
+		
+		☑ гражданство РФ
 
-☑ официальное трудоустройство
+		☑ возраст на дату выдачи кредита и на момент его погашения
 
-☑ постоянная регистрация
+		☑ официальное трудоустройство
 
-☑ непрерывный трудовой стаж
+		☑ постоянная регистрация
+
+		☑ непрерывный трудовой стаж
+	</div>
+	<div>
+		<FeedbackForm 
+			title="Оставить заявку"
+			dataFormName="Кредитные предложения на автомобили Белджи"
+			showModelSelect={true}
+	/>
+	</div>
+</div>
 
 <br />
 <b>ТАРИФЫ Т-Банка<sup>*</sup>:</b>
