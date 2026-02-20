@@ -25,9 +25,10 @@ const modelsWithComplectations = models.filter(m => (m?.complectations !== undef
 const salonsPhone = salons.map((salon: any) => salon.phone).filter(phone => phone).join(', ');
 import SeoText from '@/components/Seo/Index.astro';
 
+import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 const marqueeOverride = {
   ...MARQUEE,
-  title: '<a href="#common-modal" class="popup-link" data-title="Узнать подробнее о распродаже" data-form_name="Узнать подробнее о распродаже. Баннер">Распродажа! Успей до 28.02.26</a>',
+  title: `<a href="#common-modal" class="popup-link" data-title="Узнать подробнее о распродаже" data-form_name="Узнать подробнее о распродаже. Баннер">Распродажа! Успей до ${LAST_DAY}.${MONTH}.${YEAR}</a>`,
   show: true,
 };
 ---
