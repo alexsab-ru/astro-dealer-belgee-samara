@@ -34,6 +34,7 @@ const waitForDp = setInterval(() => {
 		});
 		connectForms(window._dp.connectforms_link, {
 			confirmModalText: confirmModalText,
+			verbose: true,
 			validation: FormsValidation
 		});
 	}
