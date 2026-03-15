@@ -37,7 +37,10 @@ const waitForDp = setInterval(() => {
 
 document.addEventListener('DOMContentLoaded', () => {
 
-	new ResponsiveMenu('#site_nav ul');
+	const siteNavList = document.querySelector('#site_nav ul');
+	if (siteNavList) {
+		new ResponsiveMenu('#site_nav ul');
+	}
 	
 	new LazyLoader();
 
