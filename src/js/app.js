@@ -28,7 +28,6 @@ const waitForDp = setInterval(() => {
 		clearInterval(waitForDp);
 		connectForms(window._dp.connectforms_link, {
 			confirmModalText: confirmModalText,
-			verbose: true,
 			validation: FormsValidation
 		});
 	}
