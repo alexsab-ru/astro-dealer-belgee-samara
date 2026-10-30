@@ -623,6 +623,29 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>Y4K8722DXTB317015</id>
+    <link>https://belgee-samara.ru/cars/belgee-x70-i-facelift-15-amt-150-hp-4wd-prestige-white-2026/</link>
+    <brand>Belgee</brand>
+    <model>X70, I Рестайлинг</model>
+    <year>2026</year>
+    <title>Belgee X70, I Рестайлинг Престиж 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/belgee-samara.ru/new/Y4K8722DXTB317015/0/full.webp?v=b9e2cf8a2ce2</image_link>
+    <price>3039990 RUB</price>
+    <sale_price>3039990 RUB</sale_price>
+    <min_price>3039990 RUB</min_price>
+    <max_price>3039990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X70, I Рестайлинг, Престиж, 1.5 AMT (150 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Y4K8722DXTB317015</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>Y4K8722DXTB317791</id>
     <link>https://belgee-samara.ru/cars/belgee-x70-i-facelift-15-amt-150-hp-4wd-style-basalt-gray-2026/</link>
     <brand>Belgee</brand>
@@ -665,29 +688,6 @@
       <unit>KM</unit>
     </mileage>
     <vin>Y4K8722Z4TB316356</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>Y4K8722Z5TB314342</id>
-    <link>https://belgee-samara.ru/cars/belgee-x70-i-facelift-15-at-150-hp-active-4wd-basalt-gray-2026/</link>
-    <brand>Belgee</brand>
-    <model>X70, I Рестайлинг</model>
-    <year>2026</year>
-    <title>Belgee X70, I Рестайлинг Актив 2026</title>
-    <image_link>https://cdn.alexsab.ru/cars/belgee-samara.ru/new/Y4K8722Z5TB314342/0/full.webp?v=5fb668918d17</image_link>
-    <price>2609990 RUB</price>
-    <sale_price>2609990 RUB</sale_price>
-    <min_price>2609990 RUB</min_price>
-    <max_price>2609990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee X70, I Рестайлинг, Актив, 1.5 AT (150 л.с.), 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>Y4K8722Z5TB314342</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
