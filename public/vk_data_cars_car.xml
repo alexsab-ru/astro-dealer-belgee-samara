@@ -27,6 +27,8 @@
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z0TB946247/7/full.webp?v=e096afb73f79</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z0TB946247/8/full.webp?v=7ca214b1a1f9</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z0TB946247/9/full.webp?v=25c0bd85e5ff</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z0TB946247/10/full.webp?v=f2a84bb3ee68</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z0TB946247/11/full.webp?v=ef18334a7f8e</image>
       </images>
     </car>
     <car>
@@ -47,8 +49,8 @@
       <images>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z0TB948001/0/full.webp?v=0819461596f3</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z0TB948001/1/full.webp?v=30ef3d6300ea</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z0TB948001/2/full.webp?v=79a14c4edd16</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z0TB948001/3/full.webp?v=acdbf2d2a002</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z0TB948001/2/full.webp?v=923d74a30ed4</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z0TB948001/3/full.webp?v=982bec468de5</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z0TB948001/4/full.webp?v=47df2db332a1</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z0TB948001/5/full.webp?v=716fedf9880b</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z0TB948001/6/full.webp?v=dd6da77729d8</image>
@@ -74,10 +76,10 @@
       <availability>В наличии</availability>
       <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB945696/0/full.webp?v=57b2b9eb9c58</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB945696/0/full.webp?v=5004d079305d</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB945696/1/full.webp?v=c6a27fdb5e01</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB945696/2/full.webp?v=51f1d1e6052e</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB945696/3/full.webp?v=f03c20cc9fec</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB945696/3/full.webp?v=b24bb968e825</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB945696/4/full.webp?v=57a65a6a32ce</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB945696/5/full.webp?v=3b4365080eee</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB945696/6/full.webp?v=2ff210678e66</image>
@@ -108,9 +110,9 @@
       <availability>В наличии</availability>
       <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB946234/0/full.webp?v=0e4867f654ce</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB946234/0/full.webp?v=17b56517dd7a</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB946234/1/full.webp?v=2204674e43e7</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB946234/2/full.webp?v=70b81927d931</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB946234/2/full.webp?v=d60e33f79669</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB946234/3/full.webp?v=87c1a20369e3</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB946234/4/full.webp?v=1ad16ff8cc69</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z2TB946234/5/full.webp?v=577bb9490742</image>
@@ -137,13 +139,13 @@
       <availability>В наличии</availability>
       <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB936196/0/full.webp?v=dfdc1f3a1127</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB936196/0/full.webp?v=d56290a7b9e3</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB936196/1/full.webp?v=c8f6b5ac4740</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB936196/2/full.webp?v=672474dffc27</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB936196/3/full.webp?v=0cd0d6cb08af</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB936196/4/full.webp?v=21c811493fb6</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB936196/5/full.webp?v=decf13be28a0</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB936196/6/full.webp?v=4d1ce6cd6b40</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB936196/6/full.webp?v=586457f29d74</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB936196/7/full.webp?v=69434ad3b66a</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB936196/8/full.webp?v=197d49cd6555</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB936196/9/full.webp?v=86f20eea10f2</image>
@@ -167,8 +169,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB945805/0/full.webp?v=0c750d162dad</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB945805/1/full.webp?v=ab186f5213cc</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB945805/0/full.webp?v=7c6c5868d4fd</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB945805/1/full.webp?v=b743b0fe8a61</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB945805/2/full.webp?v=84d03f141d2d</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB945805/3/full.webp?v=48a4fe1cca1c</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z3TB945805/4/full.webp?v=0934424e5f52</image>
@@ -199,9 +201,9 @@
       <availability>В наличии</availability>
       <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB945795/0/full.webp?v=4af4c78a8649</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB945795/0/full.webp?v=680089e2b1e0</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB945795/1/full.webp?v=d083d936f076</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB945795/2/full.webp?v=2e3d4f18700a</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB945795/2/full.webp?v=ddfef0423d41</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB945795/3/full.webp?v=297a31d2cdc6</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB945795/4/full.webp?v=86ca087ab2fe</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB945795/5/full.webp?v=d77827fb1bde</image>
@@ -233,14 +235,33 @@
       <images>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB947952/0/full.webp?v=6f98ea839cea</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB947952/1/full.webp?v=22fff4e5dce6</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB947952/2/full.webp?v=08954cefffad</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB947952/3/full.webp?v=d6569c1ed127</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB947952/2/full.webp?v=1d8fea301b15</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB947952/3/full.webp?v=51504ed778dd</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB947952/4/full.webp?v=2f1dd052f76b</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB947952/5/full.webp?v=9d92d1756fb2</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB947952/6/full.webp?v=5d9bd8a30bbe</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB947952/7/full.webp?v=6bce3fca2bb4</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB947952/8/full.webp?v=9c91090eb9f2</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB947952/9/full.webp?v=c7116d4bb473</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8622Z4TB948115</unique_id>
+      <url>https://belgee-samara.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-white-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K8622Z4TB948115</vin>
+      <price>2699990</price>
+      <sale_price>2699990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>378690</max_benefit>
+      <color>белый</color>
+      <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB948115/0/full.webp?v=5b47616ca17a</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB948115/1/full.webp?v=7e42be0ac893</image>
       </images>
     </car>
     <car>
@@ -265,6 +286,8 @@
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB948566/3/full.webp?v=b68afb74efa6</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB948566/4/full.webp?v=a248bd55eec7</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB948566/5/full.webp?v=0be10b6b4f4e</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB948566/6/full.webp?v=692888641792</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z4TB948566/7/full.webp?v=8716a4667166</image>
       </images>
     </car>
     <car>
@@ -283,8 +306,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., красный</description>
       <images>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB938547/0/full.webp?v=b182467431d7</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB938547/1/full.webp?v=1df1289c9bac</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB938547/0/full.webp?v=29bc73bcffba</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB938547/1/full.webp?v=bacf228af395</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB938547/2/full.webp?v=86b06cc08217</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB938547/3/full.webp?v=fcb96d9a6176</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB938547/4/full.webp?v=29f821336bbf</image>
@@ -328,6 +351,8 @@
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB942694/12/full.webp?v=53ff11e02802</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB942694/13/full.webp?v=e8bb6794598a</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB942694/14/full.webp?v=e39a63335b1e</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB942694/15/full.webp?v=22a240dcc2aa</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB942694/16/full.webp?v=299704a2e6bc</image>
       </images>
     </car>
     <car>
@@ -347,8 +372,8 @@
       <images>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB948561/0/full.webp?v=a35997eff4cb</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB948561/1/full.webp?v=c5fddf7b7ef6</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB948561/2/full.webp?v=57d4f5083fac</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB948561/3/full.webp?v=9c741dd638ea</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB948561/2/full.webp?v=96bd262ce7b3</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB948561/3/full.webp?v=9abfa5368169</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z5TB948561/4/full.webp?v=12d70de944eb</image>
       </images>
     </car>
@@ -368,12 +393,12 @@
       <availability>В наличии</availability>
       <description>Автомобиль Belgee X50+, Оникс, 1.5 AMT (147 л.с.), 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB944034/0/full.webp?v=2a786687de3e</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB944034/0/full.webp?v=a1a477aff8da</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB944034/1/full.webp?v=bf0bd7c44504</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB944034/2/full.webp?v=f0df1fdd4ad0</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB944034/3/full.webp?v=1256344e0746</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB944034/4/full.webp?v=0333e8e57763</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB944034/5/full.webp?v=011998641ebe</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB944034/5/full.webp?v=f4cecb30b47a</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB944034/6/full.webp?v=8fe2c0dc5bd9</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB944034/7/full.webp?v=61526899a364</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB944034/8/full.webp?v=4e863e74d674</image>
@@ -395,8 +420,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB948536/0/full.webp?v=8bcf9643d19a</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB948536/1/full.webp?v=55c16db1ba7d</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB948536/0/full.webp?v=c624a7298621</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB948536/1/full.webp?v=e32b37ca09cc</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB948536/2/full.webp?v=8d9a2bb07d30</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB948536/3/full.webp?v=7691b3a906fd</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z6TB948536/4/full.webp?v=e082c1f00ec2</image>
@@ -427,9 +452,9 @@
       <availability>В наличии</availability>
       <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z8TB941894/0/full.webp?v=7be2f6126a8f</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z8TB941894/0/full.webp?v=7d49b91e0645</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z8TB941894/1/full.webp?v=4e6af2d3ca94</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z8TB941894/2/full.webp?v=0d57c8f42c50</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z8TB941894/2/full.webp?v=329a986383e9</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z8TB941894/3/full.webp?v=e34755632a0a</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z8TB941894/4/full.webp?v=b9d064d21200</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z8TB941894/5/full.webp?v=42d98e4b3656</image>
@@ -457,8 +482,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Belgee X50+, Оникс, 1.5 AMT (147 л.с.), 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z9TB942763/0/full.webp?v=fb52e9fbc87a</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z9TB942763/1/full.webp?v=614623ccb4df</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z9TB942763/0/full.webp?v=ee3dd2245c93</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z9TB942763/1/full.webp?v=5ef44fbc39fe</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z9TB942763/2/full.webp?v=a4fe6905e150</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z9TB942763/3/full.webp?v=883a70c6d3bd</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z9TB942763/4/full.webp?v=05b8ef1e71ee</image>
@@ -487,8 +512,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
       <images>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z9TB942987/0/full.webp?v=afe05bbba192</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z9TB942987/1/full.webp?v=10589910960b</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z9TB942987/0/full.webp?v=365dcb5bd26c</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z9TB942987/1/full.webp?v=4f3111173946</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z9TB942987/2/full.webp?v=120afb2c30ac</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z9TB942987/3/full.webp?v=04613a528fbc</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622Z9TB942987/4/full.webp?v=425a84f34fa4</image>
@@ -517,9 +542,9 @@
       <images>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945462/0/full.webp?v=dd58634ceb5f</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945462/1/full.webp?v=39b32877b586</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945462/2/full.webp?v=ea2bf4ccd1f8</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945462/2/full.webp?v=0b74b9f3c209</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945462/3/full.webp?v=9ce83fcdae1d</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945462/4/full.webp?v=1d8b692274c5</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945462/4/full.webp?v=c2086e63b1ad</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945462/5/full.webp?v=77fef602d842</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945462/6/full.webp?v=b6f0711d8685</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945462/7/full.webp?v=68876b91b730</image>
@@ -545,8 +570,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
       <images>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945655/0/full.webp?v=a234ffb0dcb6</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945655/1/full.webp?v=3fa78e8f786f</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945655/0/full.webp?v=295c6068a52f</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945655/1/full.webp?v=3a2b36f7906f</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945655/2/full.webp?v=ba9c326e2d0b</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945655/3/full.webp?v=13c3daeab72a</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8622ZXTB945655/4/full.webp?v=9f815efec51f</image>
@@ -575,8 +600,8 @@
       <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950565/0/full.webp?v=67d30dbbcce1</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950565/1/full.webp?v=2d3d8fd888fe</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950565/2/full.webp?v=437283d663c4</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950565/1/full.webp?v=de451222c928</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950565/2/full.webp?v=62578eb7a79f</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950565/3/full.webp?v=9d3f8767662d</image>
       </images>
     </car>
@@ -596,10 +621,10 @@
       <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950615/0/full.webp?v=54a8336739d8</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950615/1/full.webp?v=2810db5122d1</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950615/1/full.webp?v=dfd366452742</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950615/2/full.webp?v=863fe05e92e2</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950615/3/full.webp?v=70b4b9dfece5</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950615/4/full.webp?v=f708cba62c50</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950615/4/full.webp?v=030d1d28d1fa</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950615/5/full.webp?v=b9c9925d6f31</image>
       </images>
     </car>
@@ -624,6 +649,8 @@
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950873/3/full.webp?v=ee4c570cca23</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950873/4/full.webp?v=29e15d405be9</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950873/5/full.webp?v=50e7610959d5</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950873/6/full.webp?v=ce9eb3ee7837</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950873/7/full.webp?v=55baca87398b</image>
       </images>
     </car>
     <car>
@@ -641,12 +668,31 @@
       <color>серый</color>
       <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950887/0/full.webp?v=681d6eb52372</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950887/0/full.webp?v=a48c5fce218a</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950887/1/full.webp?v=fe26e23f49e6</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950887/2/full.webp?v=0a60f3fbf8a3</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950887/3/full.webp?v=389fac8e5317</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950887/3/full.webp?v=a906909cece9</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950887/4/full.webp?v=b715185c1f58</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950887/5/full.webp?v=a7946801641e</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K86C2Z4TB950985</unique_id>
+      <url>https://belgee-samara.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K86C2Z4TB950985</vin>
+      <price>2699990</price>
+      <sale_price>2699990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>378690</max_benefit>
+      <color>серый</color>
+      <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950985/0/full.webp?v=df17535f758d</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950985/1/full.webp?v=06c53db5bc1a</image>
       </images>
     </car>
     <car>
@@ -664,8 +710,8 @@
       <color>серебряный</color>
       <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
       <images>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z6TB949305/0/full.webp?v=79e31022ecbc</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z6TB949305/1/full.webp?v=28305c17fe61</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z6TB949305/0/full.webp?v=db96232b840f</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z6TB949305/1/full.webp?v=5ee381a64872</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z6TB949305/2/full.webp?v=da69c44d0461</image>
       </images>
     </car>
@@ -685,8 +731,8 @@
       <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
       <images>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z7TB950995/0/full.webp?v=a31e1f96816b</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z7TB950995/1/full.webp?v=c5db4f08f351</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z7TB950995/2/full.webp?v=4f2cf5e7788e</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z7TB950995/1/full.webp?v=ac8e99e6f134</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z7TB950995/2/full.webp?v=400f950dfee4</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z7TB950995/3/full.webp?v=ef24a3f9f44a</image>
       </images>
     </car>
@@ -707,10 +753,48 @@
       <images>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z8TB950732/0/full.webp?v=8ba1cfe6cfe7</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z8TB950732/1/full.webp?v=84b0f07d4dc3</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z8TB950732/2/full.webp?v=e41a37888c58</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z8TB950732/3/full.webp?v=81396b6dbefd</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z8TB950732/2/full.webp?v=74d3e7d02bda</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z8TB950732/3/full.webp?v=0e422cf0a82c</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z8TB950732/4/full.webp?v=fd0ef64884b0</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z8TB950732/5/full.webp?v=83406ef947fd</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K86C2ZXTB950635</unique_id>
+      <url>https://belgee-samara.ru/cars/belgee-x50-plus-15-amt-147-hp-style-silver-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K86C2ZXTB950635</vin>
+      <price>2509990</price>
+      <sale_price>2509990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>421290</max_benefit>
+      <color>серебряный</color>
+      <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г., серебряный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2ZXTB950635/0/full.webp?v=5b70cbd39268</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2ZXTB950635/1/full.webp?v=ba89e224db66</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K86C2ZXTB950957</unique_id>
+      <url>https://belgee-samara.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X50+</folder_id>
+      <year>2026</year>
+      <vin>Y4K86C2ZXTB950957</vin>
+      <price>2699990</price>
+      <sale_price>2699990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>378690</max_benefit>
+      <color>серый</color>
+      <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2ZXTB950957/0/full.webp?v=7d304578182b</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2ZXTB950957/1/full.webp?v=f105e0734c21</image>
       </images>
     </car>
     <car>
@@ -743,6 +827,8 @@
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D2TB320488/11/full.webp?v=1106764923cc</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D2TB320488/12/full.webp?v=93b08b793fdf</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D2TB320488/13/full.webp?v=61b3175b6b2a</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D2TB320488/14/full.webp?v=f1f0d5fd1d2a</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D2TB320488/15/full.webp?v=6cd92586e354</image>
       </images>
     </car>
     <car>
@@ -762,8 +848,8 @@
       <description>Автомобиль Belgee X70, I Рестайлинг, Стиль, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
       <images>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D4TB317365/0/full.webp?v=a634dc85eb8b</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D4TB317365/1/full.webp?v=cc050add953f</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D4TB317365/2/full.webp?v=b6803fa230af</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D4TB317365/1/full.webp?v=1e2d5ea1be96</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D4TB317365/2/full.webp?v=928fa71d4352</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D4TB317365/3/full.webp?v=548b45a1b3dc</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D4TB317365/4/full.webp?v=2e210525cbbd</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D4TB317365/5/full.webp?v=478cc3d22dc8</image>
@@ -805,6 +891,8 @@
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D5TB312112/10/full.webp?v=4b915af93e13</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D5TB312112/11/full.webp?v=7d52f509fffb</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D5TB312112/12/full.webp?v=cb0c695f0b23</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D5TB312112/13/full.webp?v=a893721bbb9e</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D5TB312112/14/full.webp?v=2efe864c28fb</image>
       </images>
     </car>
     <car>
@@ -823,16 +911,35 @@
       <availability>В наличии</availability>
       <description>Автомобиль Belgee X70, I Рестайлинг, Стиль, 1.5 AMT (150 л.с.) 4WD, 2026 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D7TB318977/0/full.webp?v=4efd93b092c3</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D7TB318977/0/full.webp?v=9031d49f193d</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D7TB318977/1/full.webp?v=249ec3282e04</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D7TB318977/2/full.webp?v=335d6de3f5bf</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D7TB318977/3/full.webp?v=8b10b637bdda</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D7TB318977/4/full.webp?v=08a387f72ae6</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D7TB318977/4/full.webp?v=de819033f0de</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D7TB318977/5/full.webp?v=c86858cdcf83</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D7TB318977/6/full.webp?v=43679a9f11ab</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D7TB318977/7/full.webp?v=39c130b3122c</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D7TB318977/8/full.webp?v=31792c003ce4</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D7TB318977/9/full.webp?v=bea6fe16463f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8722D8TB321063</unique_id>
+      <url>https://belgee-samara.ru/cars/belgee-x70-i-facelift-15-amt-150-hp-4wd-style-white-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X70, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>Y4K8722D8TB321063</vin>
+      <price>2839990</price>
+      <sale_price>2839990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>425790</max_benefit>
+      <color>белый</color>
+      <description>Автомобиль Belgee X70, I Рестайлинг, Стиль, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D8TB321063/0/full.webp?v=fbae99a0f9a2</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D8TB321063/1/full.webp?v=4088f64e34bf</image>
       </images>
     </car>
     <car>
@@ -852,8 +959,8 @@
       <description>Автомобиль Belgee X70, I Рестайлинг, Престиж+, 1.5 AMT (177 л.с.) 4WD, 2026 г., синий</description>
       <images>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D9TB318205/0/full.webp?v=1cbb8ab6b87a</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D9TB318205/1/full.webp?v=3f5ed541a4f5</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D9TB318205/2/full.webp?v=5ec63cf7bc15</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D9TB318205/1/full.webp?v=1f21f88c99b1</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D9TB318205/2/full.webp?v=26447235d782</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D9TB318205/3/full.webp?v=8eca9321e6c7</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D9TB318205/4/full.webp?v=411e256f9d25</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D9TB318205/5/full.webp?v=08e9d9e38bd8</image>
@@ -895,6 +1002,27 @@
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722DXTB317015/13/full.webp?v=2ecc9af78607</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722DXTB317015/14/full.webp?v=6e4e175cf80e</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722DXTB317015/15/full.webp?v=52d18edf1201</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722DXTB317015/16/full.webp?v=1e9de4c1345d</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722DXTB317015/17/full.webp?v=7352e54e2399</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>Y4K8722DXTB321064</unique_id>
+      <url>https://belgee-samara.ru/cars/belgee-x70-i-facelift-15-amt-150-hp-4wd-style-white-2026/</url>
+      <mark_id>Belgee</mark_id>
+      <folder_id>X70, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>Y4K8722DXTB321064</vin>
+      <price>2839990</price>
+      <sale_price>2839990</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>425790</max_benefit>
+      <color>белый</color>
+      <description>Автомобиль Belgee X70, I Рестайлинг, Стиль, 1.5 AMT (150 л.с.) 4WD, 2026 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722DXTB321064/0/full.webp?v=23843c203717</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722DXTB321064/1/full.webp?v=387ba7202a92</image>
       </images>
     </car>
     <car>
@@ -915,8 +1043,8 @@
       <images>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722ZXTB315986/0/full.webp?v=2e74a4a0065d</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722ZXTB315986/1/full.webp?v=1a5230c74223</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722ZXTB315986/2/full.webp?v=184e259230a9</image>
-        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722ZXTB315986/3/full.webp?v=4664ce12650b</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722ZXTB315986/2/full.webp?v=86c30b8ba79b</image>
+        <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722ZXTB315986/3/full.webp?v=076e9328407e</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722ZXTB315986/4/full.webp?v=e7292cc00b27</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722ZXTB315986/5/full.webp?v=b1502b4096f7</image>
         <image>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722ZXTB315986/6/full.webp?v=ef2050362ced</image>
