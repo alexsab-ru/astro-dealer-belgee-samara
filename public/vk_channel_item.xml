@@ -439,6 +439,29 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>Y4K86C2Z3TB953277</id>
+    <link>https://belgee-samara.ru/cars/belgee-x50-plus-15-amt-147-hp-active-4wd-silver-2026/</link>
+    <brand>Belgee</brand>
+    <model>X50+</model>
+    <year>2026</year>
+    <title>Belgee X50+ Актив 2026</title>
+    <image_link>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z3TB953277/0/full.webp?v=e9fea744a695</image_link>
+    <price>2319990 RUB</price>
+    <sale_price>2319990 RUB</sale_price>
+    <min_price>2319990 RUB</min_price>
+    <max_price>2319990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X50+, Актив, 1.5 AMT (147 л.с.), 2026 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Y4K86C2Z3TB953277</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>Y4K86C2Z4TB950565</id>
     <link>https://belgee-samara.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</link>
     <brand>Belgee</brand>
@@ -531,6 +554,29 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>Y4K86C2Z4TB953174</id>
+    <link>https://belgee-samara.ru/cars/belgee-x50-plus-15-amt-147-hp-active-4wd-white-2026/</link>
+    <brand>Belgee</brand>
+    <model>X50+</model>
+    <year>2026</year>
+    <title>Belgee X50+ Актив 2026</title>
+    <image_link>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB953174/0/full.webp?v=17c62bf82819</image_link>
+    <price>2319990 RUB</price>
+    <sale_price>2319990 RUB</sale_price>
+    <min_price>2319990 RUB</min_price>
+    <max_price>2319990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X50+, Актив, 1.5 AMT (147 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Y4K86C2Z4TB953174</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>Y4K86C2Z4TB953305</id>
     <link>https://belgee-samara.ru/cars/belgee-x50-plus-15-amt-147-hp-active-4wd-grey-2026/</link>
     <brand>Belgee</brand>
@@ -550,6 +596,52 @@
       <unit>KM</unit>
     </mileage>
     <vin>Y4K86C2Z4TB953305</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Y4K86C2Z5TB951918</id>
+    <link>https://belgee-samara.ru/cars/belgee-x50-plus-15-amt-147-hp-style-grey-2026/</link>
+    <brand>Belgee</brand>
+    <model>X50+</model>
+    <year>2026</year>
+    <title>Belgee X50+ Стиль 2026</title>
+    <image_link>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z5TB951918/0/full.webp?v=3cd871b4e991</image_link>
+    <price>2509990 RUB</price>
+    <sale_price>2509990 RUB</sale_price>
+    <min_price>2509990 RUB</min_price>
+    <max_price>2509990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X50+, Стиль, 1.5 AMT (147 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Y4K86C2Z5TB951918</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Y4K86C2Z5TB952678</id>
+    <link>https://belgee-samara.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</link>
+    <brand>Belgee</brand>
+    <model>X50+</model>
+    <year>2026</year>
+    <title>Belgee X50+ Престиж 2026</title>
+    <image_link>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z5TB952678/0/full.webp?v=000f7f3e4a71</image_link>
+    <price>2699990 RUB</price>
+    <sale_price>2699990 RUB</sale_price>
+    <min_price>2699990 RUB</min_price>
+    <max_price>2699990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Y4K86C2Z5TB952678</vin>
     <availability>на заказ</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -583,7 +675,7 @@
     <model>X50+</model>
     <year>2026</year>
     <title>Belgee X50+ Престиж 2026</title>
-    <image_link>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z7TB950995/0/full.webp?v=ba3a4bf2c347</image_link>
+    <image_link>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z7TB950995/0/full.webp?v=a31e1f96816b</image_link>
     <price>2699990 RUB</price>
     <sale_price>2699990 RUB</sale_price>
     <min_price>2699990 RUB</min_price>
@@ -619,6 +711,29 @@
       <unit>KM</unit>
     </mileage>
     <vin>Y4K86C2Z8TB951928</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Y4K86C2Z8TB952688</id>
+    <link>https://belgee-samara.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</link>
+    <brand>Belgee</brand>
+    <model>X50+</model>
+    <year>2026</year>
+    <title>Belgee X50+ Престиж 2026</title>
+    <image_link>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z8TB952688/0/full.webp?v=b3f0b07251c6</image_link>
+    <price>2699990 RUB</price>
+    <sale_price>2699990 RUB</sale_price>
+    <min_price>2699990 RUB</min_price>
+    <max_price>2699990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Y4K86C2Z8TB952688</vin>
     <availability>на заказ</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -669,6 +784,29 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>Y4K86C2Z9TB952702</id>
+    <link>https://belgee-samara.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</link>
+    <brand>Belgee</brand>
+    <model>X50+</model>
+    <year>2026</year>
+    <title>Belgee X50+ Престиж 2026</title>
+    <image_link>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z9TB952702/0/full.webp?v=40c8562f40ba</image_link>
+    <price>2699990 RUB</price>
+    <sale_price>2699990 RUB</sale_price>
+    <min_price>2699990 RUB</min_price>
+    <max_price>2699990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Y4K86C2Z9TB952702</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>Y4K86C2ZXTB950635</id>
     <link>https://belgee-samara.ru/cars/belgee-x50-plus-15-amt-147-hp-style-silver-2026/</link>
     <brand>Belgee</brand>
@@ -711,7 +849,7 @@
       <unit>KM</unit>
     </mileage>
     <vin>Y4K86C2ZXTB950957</vin>
-    <availability>на заказ</availability>
+    <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
@@ -744,7 +882,7 @@
     <model>X70, I Рестайлинг</model>
     <year>2026</year>
     <title>Belgee X70, I Рестайлинг Стиль 2026</title>
-    <image_link>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D2TB320488/0/full.webp?v=63b1d5f330d3</image_link>
+    <image_link>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722D2TB320488/0/full.webp?v=5a3029649bc0</image_link>
     <price>2839990 RUB</price>
     <sale_price>2839990 RUB</sale_price>
     <min_price>2839990 RUB</min_price>
@@ -882,7 +1020,7 @@
     <model>X70, I Рестайлинг</model>
     <year>2026</year>
     <title>Belgee X70, I Рестайлинг Актив 2026</title>
-    <image_link>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722Z0TB318119/0/full.webp?v=833a3c9e0a10</image_link>
+    <image_link>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722Z0TB318119/0/full.webp?v=6ce1d4e001f9</image_link>
     <price>2609990 RUB</price>
     <sale_price>2609990 RUB</sale_price>
     <min_price>2609990 RUB</min_price>
@@ -896,6 +1034,29 @@
     </mileage>
     <vin>Y4K8722Z0TB318119</vin>
     <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>Y4K8722Z5TB321842</id>
+    <link>https://belgee-samara.ru/cars/belgee-x70-i-facelift-15-at-150-hp-style-basalt-gray-2026/</link>
+    <brand>Belgee</brand>
+    <model>X70, I Рестайлинг</model>
+    <year>2026</year>
+    <title>Belgee X70, I Рестайлинг Стиль 2026</title>
+    <image_link>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K8722Z5TB321842/0/full.webp?v=29c62643ab47</image_link>
+    <price>2745990 RUB</price>
+    <sale_price>2745990 RUB</sale_price>
+    <min_price>2745990 RUB</min_price>
+    <max_price>2745990 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Belgee X70, I Рестайлинг, Стиль, 1.5 AT (150 л.с.), 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <vin>Y4K8722Z5TB321842</vin>
+    <availability>на заказ</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
 </channel>
