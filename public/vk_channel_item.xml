@@ -510,29 +510,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>Y4K86C2Z4TB950985</id>
-    <link>https://belgee-samara.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</link>
-    <brand>Belgee</brand>
-    <model>X50+</model>
-    <year>2026</year>
-    <title>Belgee X50+ Престиж 2026</title>
-    <image_link>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2Z4TB950985/0/full.webp?v=df17535f758d</image_link>
-    <price>2699990 RUB</price>
-    <sale_price>2699990 RUB</sale_price>
-    <min_price>2699990 RUB</min_price>
-    <max_price>2699990 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Belgee X50+, Престиж, 1.5 AMT (147 л.с.), 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>Y4K86C2Z4TB950985</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>Y4K86C2Z4TB952638</id>
     <link>https://belgee-samara.ru/cars/belgee-x50-plus-15-amt-147-hp-prestige-grey-2026/</link>
     <brand>Belgee</brand>
@@ -884,7 +861,7 @@
     <model>X50+</model>
     <year>2026</year>
     <title>Belgee X50+ Престиж 2026</title>
-    <image_link>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2ZXTB950957/0/full.webp?v=7d304578182b</image_link>
+    <image_link>https://img.upspace.ru/cars/belgee-samara.ru/new/Y4K86C2ZXTB950957/0/full.webp?v=4456b4a4d6b2</image_link>
     <price>2699990 RUB</price>
     <sale_price>2699990 RUB</sale_price>
     <min_price>2699990 RUB</min_price>
@@ -1035,7 +1012,7 @@
       <unit>KM</unit>
     </mileage>
     <vin>Y4K8722D8TB321063</vin>
-    <availability>на заказ</availability>
+    <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
@@ -1081,7 +1058,7 @@
       <unit>KM</unit>
     </mileage>
     <vin>Y4K8722DXTB321064</vin>
-    <availability>на заказ</availability>
+    <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
